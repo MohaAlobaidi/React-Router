@@ -11,6 +11,7 @@ function Nav() {
                     
                     <NavLink exact to='/'> Home</NavLink> 
                     <NavLink to='/About'>About</NavLink>
+                    <NavLink to='/blog'>Blog</NavLink>
                 </ul>
             </div>
            
